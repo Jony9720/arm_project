@@ -1,4 +1,4 @@
-# Proyecto de CC7
+# Proyecto
 
 ### Integrantes:
 
