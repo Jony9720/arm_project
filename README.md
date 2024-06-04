@@ -21,4 +21,5 @@
 El proyecto incluye su carpeta build para luego ejecutarlo.
 
 
-Diagrama_Debugger.jpeg
+arm_project
+/Diagrama_Debugger.jpeg
