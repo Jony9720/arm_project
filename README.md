@@ -20,5 +20,5 @@
 
 El proyecto incluye su carpeta build para luego ejecutarlo.
 
-Diagrama del proyecto
+
 Diagrama_Debugger.jpeg
