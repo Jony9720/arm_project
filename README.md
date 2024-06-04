@@ -21,4 +21,4 @@
 El proyecto incluye su carpeta build para luego ejecutarlo.
 
 
-Diagrama_Debugger.jpeg
+![Diagrama](https://github.com/Jony9720/arm_project/blob/main/Diagrama_Debugger.jpeg?raw=true)
