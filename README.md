@@ -19,3 +19,6 @@
   Nota: Para abrir el navegador de archivos en donde se encuentra la ruta del   proyecto ejecutar 'explorer.exe .'
 
 El proyecto incluye su carpeta build para luego ejecutarlo.
+
+
+![Diagrama](https://github.com/Jony9720/arm_project/blob/main/Diagrama_Debugger.jpeg?raw=true)
